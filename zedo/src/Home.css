@@ -1,0 +1,24 @@
+.head{
+    border: solid 2px;
+    height: 100px;
+    width: 400px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: black;
+    border-radius: 10px;
+}
+.head input{
+    margin-top: 40px;
+    height: 30px;
+    margin-left: 10px;
+    border-color: red;
+    width: 300px;
+      border-radius: 10px;
+}
+button{
+        margin-top: 10px;
+         height: 30px;
+    margin-left: 10px;
+    border-color: red;
+      border-radius: 10px;
+}
